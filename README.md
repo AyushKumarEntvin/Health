@@ -63,7 +63,7 @@ Open your browser:
 Frontend: FEBaseurl
 Backend docs: BEBaseurl/docs
 
-🧪 Sample Usage
+Sample Usage
 Click Start Recording to begin capturing a conversation.
 
 Click Stop Recording when the conversation ends.
