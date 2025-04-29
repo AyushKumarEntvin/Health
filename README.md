@@ -50,8 +50,7 @@ bash run.sh
 Run frontend
 
 bash
-Copy
-Edit
+
 cd ../frontend
 npm install
 npm run dev
