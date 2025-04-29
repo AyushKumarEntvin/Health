@@ -38,14 +38,11 @@ Configure backend
 Add your OpenAI and Deepgram keys in:
 
 arduino
-Copy
-Edit
+
 backend/app/config.py
 Run backend
 
-bash
-Copy
-Edit
+
 cd backend
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
